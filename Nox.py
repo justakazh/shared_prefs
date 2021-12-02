@@ -1,6 +1,7 @@
 import os
 print("""
-
+Android Penetration Testing - Android Data Storage Information Disclosure
+simple code :)
 """)
 
 os.system("\"C:\\Program Files (x86)\\Nox\\bin\\nox_adb.exe\" shell ls /data/data/")
